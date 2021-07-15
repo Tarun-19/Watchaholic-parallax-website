@@ -1,5 +1,5 @@
-# Parallax-website
+# Watchaholic-parallax-website
 
-#### Basic newbie website page
+#### Just a simple parallax website page showing my affection towards watches:facepunch:
 
-##### Still woking on it:)
+## Click
